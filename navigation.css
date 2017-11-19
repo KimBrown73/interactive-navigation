@@ -7,3 +7,9 @@ nav ul {
 nav li {
     display: inline;
     padding: 20px;
+}
+
+nav li hover a { 
+    color: red;
+    background-color: yellow;
+  }
