@@ -9,7 +9,7 @@ nav li {
     padding: 20px;
 }
 
-nav li hover a { 
+nav li a:hover { 
     color: red;
     background-color: yellow;
   }
